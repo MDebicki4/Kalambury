@@ -1,0 +1,4494 @@
+{
+  "people": [
+    {
+      "name": "Andrzej Seweryn",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Jerzy Stuhr",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Daniel Olbrychski",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Bogusław Linda",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Janusz Gajos",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Zbigniew Zamachowski",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Borys Szyc",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Tomasz Kot",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Piotr Adamczyk",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Robert Więckiewicz",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Cezary Pazura",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Marcin Dorociński",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Maciej Stuhr",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Paweł Wilczak",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Artur Żmijewski",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Andrzej Chyra",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Rafał Zawierucha",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Tomasz Karolak",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Krzysztof Kowalewski",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Marek Kondrat",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Jacek Braciak",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Wojciech Mecwaldowski",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Piotr Fronczewski",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Adam Woronowicz",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Jan Frycz",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Andrzej Grabowski",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Radosław Pazura",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Arkadiusz Jakubik",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Jacek Rozenek",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Michał Żebrowski",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Mikołaj Roznerski",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Jakub Gierszał",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Bartłomiej Topa",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Maciej Musiał",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Andrzej Zieliński",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Maciej Zakościelny",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Paweł Małaszyński",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Cezary Żak",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Olgierd Łukaszewicz",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Sebastian Fabijański",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Maciej Damięcki",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Jan Englert",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Krystyna Janda",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Maja Ostaszewska",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Danuta Stenka",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Agata Kulesza",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Kinga Preis",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Katarzyna Figura",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Joanna Kulig",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Magdalena Cielecka",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Grażyna Szapołowska",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Anna Dymna",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Katarzyna Zielińska",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Izabela Kuna",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Agata Buzek",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Weronika Rosati",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Julia Wieniawa",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Małgorzata Kożuchowska",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Olga Bołądź",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Sonia Bohosiewicz",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Anna Mucha",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Alicja Bachleda-Curuś",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Joanna Brodzik",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Marta Żmuda-Trzebiatowska",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Julia Kamińska",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Roma Gąsiorowska",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Katarzyna Glinka",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Małgorzata Foremniak",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Beata Tyszkiewicz",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Joanna Jabłczyńska",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Małgorzata Socha",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Barbara Kurdej-Szatan",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Katarzyna Cichopek",
+      "active": true,
+      "key": "aktorPolski"
+    },
+    {
+      "name": "Leonardo DiCaprio",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Robert De Niro",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Brad Pitt",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Tom Hanks",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Johnny Depp",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Al Pacino",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Denzel Washington",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Morgan Freeman",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Tom Cruise",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Anthony Hopkins",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Jack Nicholson",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Christian Bale",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Joaquin Phoenix",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Hugh Jackman",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Robert Downey Jr.",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Matt Damon",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Keanu Reeves",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Will Smith",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Daniel Day-Lewis",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Russell Crowe",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Harrison Ford",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "George Clooney",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Ryan Gosling",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Edward Norton",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Mark Wahlberg",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Jake Gyllenhaal",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Jared Leto",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Adam Driver",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Chris Hemsworth",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Chris Evans",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Chris Pratt",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Benedict Cumberbatch",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Michael Fassbender",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Viggo Mortensen",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Liam Neeson",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Jeff Bridges",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Ewan McGregor",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Bill Murray",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Gary Oldman",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Jeremy Renner",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Ben Affleck",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "John Travolta",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Steve Carell",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Colin Firth",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Michael Caine",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Paul Rudd",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Ryan Reynolds",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Timothée Chalamet",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "James McAvoy",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Sylvester Stallone",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Arnold Schwarzenegger",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Jason Statham",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Jason Momoa",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Paul Newman",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Heath Ledger",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Bruce Willis",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Charlton Heston",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Clark Gable",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Cary Grant",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Sean Connery",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Marlon Brando",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Mel Gibson",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Clint Eastwood",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Ralph Fiennes",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Jude Law",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "John Malkovich",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Kevin Spacey",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Robert Redford",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Dustin Hoffman",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Richard Gere",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Patrick Stewart",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Ian McKellen",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Christoph Waltz",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Andy Serkis",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Tom Hardy",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Josh Brolin",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Oscar Isaac",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Michael B. Jordan",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Donald Sutherland",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Willem Dafoe",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Steve Buscemi",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Javier Bardem",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Antonio Banderas",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Channing Tatum",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Shia LaBeouf",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Joseph Gordon-Levitt",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "John Wayne",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Alec Baldwin",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Taron Egerton",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Ansel Elgort",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Henry Cavill",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Jamie Foxx",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Matthew McConaughey",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Woody Harrelson",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Bill Skarsgård",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Meryl Streep",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Scarlett Johansson",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Angelina Jolie",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Jennifer Lawrence",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Julia Roberts",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Cate Blanchett",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Natalie Portman",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Charlize Theron",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Emma Stone",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Nicole Kidman",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Sandra Bullock",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Anne Hathaway",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Kate Winslet",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Amy Adams",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Emily Blunt",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Kristen Stewart",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Gal Gadot",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Keira Knightley",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Margot Robbie",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Emma Watson",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Penélope Cruz",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Halle Berry",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Reese Witherspoon",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Marion Cotillard",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Helen Mirren",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Sigourney Weaver",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Tilda Swinton",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Lupita Nyong'o",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Rooney Mara",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Salma Hayek",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Cameron Diaz",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Rachel McAdams",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Diane Keaton",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Winona Ryder",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Zendaya",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Kirsten Dunst",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Jodie Foster",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Jane Fonda",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Renée Zellweger",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Julianne Moore",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Mila Kunis",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Michelle Pfeiffer",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Olivia Colman",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Jennifer Aniston",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Naomi Watts",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Eva Green",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Brie Larson",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Rosamund Pike",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Elizabeth Olsen",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Dakota Johnson",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Florence Pugh",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Audrey Hepburn",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Sharon Stone",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Demi Moore",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Monica Bellucci",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Catherine Zeta-Jones",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Eva Mendes",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Michelle Yeoh",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Anya Taylor-Joy",
+      "active": true,
+      "key": "aktorZagraniczny"
+    },
+    {
+      "name": "Ra",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Isis",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Osiris",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Horus",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Anubis",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Set",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Hathor",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Zeus",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Hera",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Posejdon",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Hades",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Athena",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Apollo",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Artemida",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Ares",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Aphrodite",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Hermes",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Jupiter",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Juno",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Neptun",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Pluton",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Minerva",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Diana",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Mars",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Venus",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Mercury",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Odin",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Thor",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Freyja",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Loki",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Baldur",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Tyr",
+      "active": true,
+      "key": "bog"
+    },
+    {
+      "name": "Maryla Rodowicz",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Edyta Górniak",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Anna Jantar",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Kayah",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Beata Kozidrak",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Natalia Kukulska",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Kasia Kowalska",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Doda",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Ewa Farna",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Ania Dąbrowska",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Reni Jusis",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Agnieszka Chylińska",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Urszula",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Monika Brodka",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Patrycja Markowska",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Sylwia Grzeszczak",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Violetta Villas",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Margaret",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Kasia Nosowska",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Natalia Szroeder",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Sanah",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Anna Maria Jopek",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Cleo",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Ewelina Flinta",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Katarzyna Cerekwicka",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Paulina Przybysz",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Julia Pietrucha",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Roksana Węgiel",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Ewa Bem",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Justyna Steczkowska",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Anita Lipnicka",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Natalia Nykiel",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Maria Peszek",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Natasza Urbańska",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Ewa Sonnet",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Gosia Andrzejewicz",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Aleksandra Szwed",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Natalia Przybysz",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Tatiana Okupnik",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Katarzyna Zielińska",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Julia Wieniawa",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Ewelina Lisowska",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Ania Wyszkoni",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Elżbieta Zapendowska",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Helena Majdaniec",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Katarzyna Wilk",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Czesław Niemen",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Grzegorz Ciechowski",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Andrzej Zaucha",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Krzysztof Krawczyk",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Zbigniew Wodecki",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Marek Grechuta",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Kazik Staszewski",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Kamil Bednarek",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Artur Rojek",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Michał Wiśniewski",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Piotr Rogucki",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Maciej Maleńczuk",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Dawid Podsiadło",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Paweł Kukiz",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Sebastian Karpiel-Bułecka",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Piotr Cugowski",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Ryszard Rynkowski",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Janusz Panasewicz",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Jan Borysewicz",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Mrozu",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Stachursky",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Janusz Radek",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Łukasz Zagrobelny",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Grzegorz Hyży",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Tomasz Organek",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Krzysztof Zalewski",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Grzegorz Turnau",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Jacek Kaczmarski",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Ryszard 'Peja' Andrzejewski",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Robert Gawliński",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Andrzej Piaseczny",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Marcin 'Liber' Piotrowski",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Kortez",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Kuba Sienkiewicz",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Wojciech Łozowski",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Szymon Wydra",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Piotr Rubik",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Tede",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Leszek Możdżer",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Michał Szpak",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Ryszard Riedel",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Andrzej Dąbrowski",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Michał Milowicz",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Zbigniew Hołdys",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Piotr Kupicha",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Taco Hemingway",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Quebonafide",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "O.S.T.R.",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Pezet",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Sokół",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Paluch",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "KęKę",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Bedoes",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "PRO8L3M",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Szpaku",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Krzysztof 'Grabaż' Grabowski",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Young Leosia",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Dziarma",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Oliwka Brazil",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Bambi",
+      "active": true,
+      "key": "piosenkarzPolski"
+    },
+    {
+      "name": "Beyoncé",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Madonna",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Whitney Houston",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Mariah Carey",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Lady Gaga",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Rihanna",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Adele",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Celine Dion",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Taylor Swift",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Katy Perry",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Aretha Franklin",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Britney Spears",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Janet Jackson",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Tina Turner",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Cher",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Shakira",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Jennifer Lopez",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Alicia Keys",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Christina Aguilera",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Sia",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Lana Del Rey",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Ariana Grande",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Selena Gomez",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Miley Cyrus",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Dua Lipa",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Billie Eilish",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Pink",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Ellie Goulding",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Kelly Clarkson",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Barbra Streisand",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Dolly Parton",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Stevie Nicks",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Florence Welch",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Nicki Minaj",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Lorde",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Kesha",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Demi Lovato",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Jessie J",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Carly Rae Jepsen",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Björk",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Norah Jones",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Alanis Morissette",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Leona Lewis",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Avril Lavigne",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Enya",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Macy Gray",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Dido",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Sade",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Victoria Beckham",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Missy Elliott",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Tinashe",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Fergie",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Gwen Stefani",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Bonnie Tyler",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Michael Jackson",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Elvis Presley",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Freddie Mercury",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Frank Sinatra",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Paul McCartney",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Elton John",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "John Lennon",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "David Bowie",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Bob Dylan",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Prince",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Stevie Wonder",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Marvin Gaye",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Bruce Springsteen",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Mick Jagger",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "George Michael",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "James Brown",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Justin Timberlake",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Usher",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Ed Sheeran",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Justin Bieber",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Sam Smith",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Bruno Mars",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Robbie Williams",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Billy Joel",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Phil Collins",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Rod Stewart",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Sting",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Bryan Adams",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Adam Levine",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Jon Bon Jovi",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Seal",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Enrique Iglesias",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Ricky Martin",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Jason Derulo",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "The Weeknd",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Harry Styles",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Lionel Richie",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Johnny Cash",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Lenny Kravitz",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Michael Bublé",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Andrea Bocelli",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Eric Clapton",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Kurt Cobain",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Axl Rose",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Steven Tyler",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Eddie Vedder",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Jim Morrison",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Robert Plant",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Ozzy Osbourne",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Alice Cooper",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Chester Bennington",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Jared Leto",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Billy Idol",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Joe Cocker",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Lou Reed",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "George Ezra",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Lewis Capaldi",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Post Malone",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Eminem",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Cardi B",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Megan Thee Stallion",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Doja Cat",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Jay-Z",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Kanye West",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Drake",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Kendrick Lamar",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Tupac Shakur",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Snoop Dogg",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Lil Wayne",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Travis Scott",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "A$AP Rocky",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Tyler, The Creator",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "50 Cent",
+      "active": true,
+      "key": "piosenkarzZagraniczny"
+    },
+    {
+      "name": "Adam Mickiewicz",
+      "active": true,
+      "key": "pisarzPolski"
+    },
+    {
+      "name": "Henryk Sienkiewicz",
+      "active": true,
+      "key": "pisarzPolski"
+    },
+    {
+      "name": "Stanisław Lem",
+      "active": true,
+      "key": "pisarzPolski"
+    },
+    {
+      "name": "Wisława Szymborska",
+      "active": true,
+      "key": "pisarzPolski"
+    },
+    {
+      "name": "Czesław Miłosz",
+      "active": true,
+      "key": "pisarzPolski"
+    },
+    {
+      "name": "Witold Gombrowicz",
+      "active": true,
+      "key": "pisarzPolski"
+    },
+    {
+      "name": "Ryszard Kapuściński",
+      "active": true,
+      "key": "pisarzPolski"
+    },
+    {
+      "name": "Julian Tuwim",
+      "active": true,
+      "key": "pisarzPolski"
+    },
+    {
+      "name": "Zbigniew Herbert",
+      "active": true,
+      "key": "pisarzPolski"
+    },
+    {
+      "name": "Bolesław Prus",
+      "active": true,
+      "key": "pisarzPolski"
+    },
+    {
+      "name": "Stefan Żeromski",
+      "active": true,
+      "key": "pisarzPolski"
+    },
+    {
+      "name": "Eliza Orzeszkowa",
+      "active": true,
+      "key": "pisarzPolski"
+    },
+    {
+      "name": "Aleksander Fredro",
+      "active": true,
+      "key": "pisarzPolski"
+    },
+    {
+      "name": "Kazimierz Przerwa-Tetmajer",
+      "active": true,
+      "key": "pisarzPolski"
+    },
+    {
+      "name": "Juliusz Słowacki",
+      "active": true,
+      "key": "pisarzPolski"
+    },
+    {
+      "name": "Władysław Reymont",
+      "active": true,
+      "key": "pisarzPolski"
+    },
+    {
+      "name": "Sławomir Mrożek",
+      "active": true,
+      "key": "pisarzPolski"
+    },
+    {
+      "name": "Olga Tokarczuk",
+      "active": true,
+      "key": "pisarzPolski"
+    },
+    {
+      "name": "Jacek Dukaj",
+      "active": true,
+      "key": "pisarzPolski"
+    },
+    {
+      "name": "Andrzej Sapkowski",
+      "active": true,
+      "key": "pisarzPolski"
+    },
+    {
+      "name": "Stanisław Wyspiański",
+      "active": true,
+      "key": "pisarzPolski"
+    },
+    {
+      "name": "Krzysztof Kamil Baczyński",
+      "active": true,
+      "key": "pisarzPolski"
+    },
+    {
+      "name": "Jan Brzechwa",
+      "active": true,
+      "key": "pisarzPolski"
+    },
+    {
+      "name": "Kornel Makuszyński",
+      "active": true,
+      "key": "pisarzPolski"
+    },
+    {
+      "name": "Maria Konopnicka",
+      "active": true,
+      "key": "pisarzPolski"
+    },
+    {
+      "name": "Jarosław Grzędowicz",
+      "active": true,
+      "key": "pisarzPolski"
+    },
+    {
+      "name": "William Shakespeare",
+      "active": true,
+      "key": "pisarzZagraniczny"
+    },
+    {
+      "name": "Charles Dickens",
+      "active": true,
+      "key": "pisarzZagraniczny"
+    },
+    {
+      "name": "Leo Tolstoy",
+      "active": true,
+      "key": "pisarzZagraniczny"
+    },
+    {
+      "name": "Fyodor Dostoevsky",
+      "active": true,
+      "key": "pisarzZagraniczny"
+    },
+    {
+      "name": "Jane Austen",
+      "active": true,
+      "key": "pisarzZagraniczny"
+    },
+    {
+      "name": "Mark Twain",
+      "active": true,
+      "key": "pisarzZagraniczny"
+    },
+    {
+      "name": "Ernest Hemingway",
+      "active": true,
+      "key": "pisarzZagraniczny"
+    },
+    {
+      "name": "George Orwell",
+      "active": true,
+      "key": "pisarzZagraniczny"
+    },
+    {
+      "name": "Franz Kafka",
+      "active": true,
+      "key": "pisarzZagraniczny"
+    },
+    {
+      "name": "Homer",
+      "active": true,
+      "key": "pisarzZagraniczny"
+    },
+    {
+      "name": "J.K. Rowling",
+      "active": true,
+      "key": "pisarzZagraniczny"
+    },
+    {
+      "name": "J.R.R. Tolkien",
+      "active": true,
+      "key": "pisarzZagraniczny"
+    },
+    {
+      "name": "F. Scott Fitzgerald",
+      "active": true,
+      "key": "pisarzZagraniczny"
+    },
+    {
+      "name": "Agatha Christie",
+      "active": true,
+      "key": "pisarzZagraniczny"
+    },
+    {
+      "name": "Arthur Conan Doyle",
+      "active": true,
+      "key": "pisarzZagraniczny"
+    },
+    {
+      "name": "Edgar Allan Poe",
+      "active": true,
+      "key": "pisarzZagraniczny"
+    },
+    {
+      "name": "Isaac Asimov",
+      "active": true,
+      "key": "pisarzZagraniczny"
+    },
+    {
+      "name": "George R.R. Martin",
+      "active": true,
+      "key": "pisarzZagraniczny"
+    },
+    {
+      "name": "Philip K. Dick",
+      "active": true,
+      "key": "pisarzZagraniczny"
+    },
+    {
+      "name": "Vladimir Nabokov",
+      "active": true,
+      "key": "pisarzZagraniczny"
+    },
+    {
+      "name": "Anton Chekhov",
+      "active": true,
+      "key": "pisarzZagraniczny"
+    },
+    {
+      "name": "Lech Wałęsa",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Tadeusz Mazowiecki",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Jarosław Kaczyński",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Donald Tusk",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Andrzej Duda",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Aleksander Kwaśniewski",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Bronisław Komorowski",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Mateusz Morawiecki",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Beata Szydło",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Ewa Kopacz",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Leszek Miller",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Władysław Kosiniak-Kamysz",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Zbigniew Ziobro",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Ryszard Petru",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Grzegorz Schetyna",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Rafał Trzaskowski",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Jarosław Gowin",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Paweł Kukiz",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Robert Biedroń",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Adam Michnik",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Janusz Korwin-Mikke",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Ryszard Kalisz",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Barbara Nowacka",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Joanna Mucha",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Joanna Scheuring-Wielgus",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Jacek Sasin",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Antoni Macierewicz",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Jerzy Buzek",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Jolanta Kwaśniewska",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Radosław Sikorski",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Patryk Jaki",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Michał Dworczyk",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Jacek Kurski",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Roman Giertych",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Krystyna Pawłowicz",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Janusz Palikot",
+      "active": true,
+      "key": "politykPolski"
+    },
+    {
+      "name": "Winston Churchill",
+      "active": true,
+      "key": "politykZagraniczny"
+    },
+    {
+      "name": "Nelson Mandela",
+      "active": true,
+      "key": "politykZagraniczny"
+    },
+    {
+      "name": "Margaret Thatcher",
+      "active": true,
+      "key": "politykZagraniczny"
+    },
+    {
+      "name": "Franklin D. Roosevelt",
+      "active": true,
+      "key": "politykZagraniczny"
+    },
+    {
+      "name": "Mahatma Gandhi",
+      "active": true,
+      "key": "politykZagraniczny"
+    },
+    {
+      "name": "John F. Kennedy",
+      "active": true,
+      "key": "politykZagraniczny"
+    },
+    {
+      "name": "Abraham Lincoln",
+      "active": true,
+      "key": "politykZagraniczny"
+    },
+    {
+      "name": "Charles de Gaulle",
+      "active": true,
+      "key": "politykZagraniczny"
+    },
+    {
+      "name": "Indira Gandhi",
+      "active": true,
+      "key": "politykZagraniczny"
+    },
+    {
+      "name": "Fidel Castro",
+      "active": true,
+      "key": "politykZagraniczny"
+    },
+    {
+      "name": "Eleanor Roosevelt",
+      "active": true,
+      "key": "politykZagraniczny"
+    },
+    {
+      "name": "Benito Mussolini",
+      "active": true,
+      "key": "politykZagraniczny"
+    },
+    {
+      "name": "Sherlock Holmes",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Harry Potter",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Frodo Baggins",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "James Bond",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Batman",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Superman",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Spider-Man",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Darth Vader",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Indiana Jones",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Luke Skywalker",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Hannibal Lecter",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Gandalf",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Albus Dumbledore",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Wonder Woman",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Wolverine",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Iron Man",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Kapitan Ameryka",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Joker",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Homer Simpson",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Myszka Miki",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Królik Bugs",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Bart Simpson",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Don Draper",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Walter White",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Jon Snow",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Daenerys Targaryen",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Arya Stark",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Tyrion Lannister",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Atticus Finch",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Jay Gatsby",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Holden Caulfield",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Herkules Poirot",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Elżbieta Bennet",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Drakula",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Potwór Frankensteina",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Alicja",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Kubuś Puchatek",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Miś Paddington",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Charlie Brown",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Snoopy",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Yoda",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "R2-D2",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "C-3PO",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Rocky Balboa",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Marty McFly",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Neo",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Gollum",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Legolas",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Aragorn",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Samwise Gamgee",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Bilbo Baggins",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Dr. Gregory House",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Buffy Summers",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Dexter Morgan",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Rick Grimes",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Tony Soprano",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Jedenastka",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Tintin",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Asteriks",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Obeliks",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Popeye",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Calvin",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Hobbes",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Garfield",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Frozone",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Buzz Astral",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Chudy",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Elsa",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Anna",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Simba",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Nemo",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Dory",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Jack Sparrow",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Willy Wonka",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Pippi Pończoszanka",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Hermiona Granger",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Ron Weasley",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Aladyn",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Dżin",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Roszpunka",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Kopciuszek",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Królewna Śnieżka",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Aurora",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Bella",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Diabolina",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Urszula",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Ariel",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Piotruś Pan",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Kapitan Hak",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "SpongeBob Kanciastoporty",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Patryk Rozgwiazda",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Shrek",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Osioł",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Fiona",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Megatron",
+      "active": true,
+      "key": "postaciFikcyjneZagraniczne"
+    },
+    {
+      "name": "Pan Tadeusz",
+      "active": true,
+      "key": "postaciFikcyjnePolskie"
+    },
+    {
+      "name": "Janosik",
+      "active": true,
+      "key": "postaciFikcyjnePolskie"
+    },
+    {
+      "name": "Reksio",
+      "active": true,
+      "key": "postaciFikcyjnePolskie"
+    },
+    {
+      "name": "Koziołek Matołek",
+      "active": true,
+      "key": "postaciFikcyjnePolskie"
+    },
+    {
+      "name": "Kapitan Żbik",
+      "active": true,
+      "key": "postaciFikcyjnePolskie"
+    },
+    {
+      "name": "Baltazar Gąbka",
+      "active": true,
+      "key": "postaciFikcyjnePolskie"
+    },
+    {
+      "name": "Miś Uszatek",
+      "active": true,
+      "key": "postaciFikcyjnePolskie"
+    },
+    {
+      "name": "Bolek",
+      "active": true,
+      "key": "postaciFikcyjnePolskie"
+    },
+    {
+      "name": "Lolek",
+      "active": true,
+      "key": "postaciFikcyjnePolskie"
+    },
+    {
+      "name": "Kopciuszek",
+      "active": true,
+      "key": "postaciFikcyjnePolskie"
+    },
+    {
+      "name": "Czterej Pancerni",
+      "active": true,
+      "key": "postaciFikcyjnePolskie"
+    },
+    {
+      "name": "Stefek Burczymucha",
+      "active": true,
+      "key": "postaciFikcyjnePolskie"
+    },
+    {
+      "name": "Zaczarowany Ołówek",
+      "active": true,
+      "key": "postaciFikcyjnePolskie"
+    },
+    {
+      "name": "Pan Samochodzik",
+      "active": true,
+      "key": "postaciFikcyjnePolskie"
+    },
+    {
+      "name": "Kapitan Bomba",
+      "active": true,
+      "key": "postaciFikcyjnePolskie"
+    },
+    {
+      "name": "Kajko",
+      "active": true,
+      "key": "postaciFikcyjnePolskie"
+    },
+    {
+      "name": "Kokosz",
+      "active": true,
+      "key": "postaciFikcyjnePolskie"
+    },
+    {
+      "name": "Reks",
+      "active": true,
+      "key": "postaciFikcyjnePolskie"
+    },
+    {
+      "name": "Tytus",
+      "active": true,
+      "key": "postaciFikcyjnePolskie"
+    },
+    {
+      "name": "Romek",
+      "active": true,
+      "key": "postaciFikcyjnePolskie"
+    },
+    {
+      "name": "A'Tomek",
+      "active": true,
+      "key": "postaciFikcyjnePolskie"
+    },
+    {
+      "name": "Szatan z siódmej klasy",
+      "active": true,
+      "key": "postaciFikcyjnePolskie"
+    },
+    {
+      "name": "Zbyszko z Bogdańca",
+      "active": true,
+      "key": "postaciFikcyjnePolskie"
+    },
+    {
+      "name": "Rudy",
+      "active": true,
+      "key": "postaciFikcyjnePolskie"
+    },
+    {
+      "name": "Mieszko I",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Bolesław I Chrobry",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Kazimierz III Wielki",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Władysław II Jagiełło",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Jadwiga Andegaweńska",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Jan III Sobieski",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Stanisław August Poniatowski",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Tadeusz Kościuszko",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Józef Piłsudski",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Roman Dmowski",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Ignacy Jan Paderewski",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Witold Pilecki",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Stanisław Żółkiewski",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Stefan Czarniecki",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Kazimierz Pułaski",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Władysław Sikorski",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Stefan Wyszyński",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Karol Wojtyła (Jan Paweł II)",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Zygmunt II August",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Stanisław Moniuszko",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Zygmunt III Waza",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Jan Zamoyski",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Helena Modrzejewska",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Witkacy (Stanisław Ignacy Witkiewicz)",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Władysław Łokietek",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Kazimierz Wielki",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Władysław IV Waza",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Józef Bem",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Tadeusz Rejtan",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Ignacy Daszyński",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Feliks Dzierżyński",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Hugo Kołłątaj",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Jerzy Popiełuszko",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Jan Heweliusz",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Anna Walentynowicz",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Józef Beck",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Jakub Berman",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Róża Luksemburg",
+      "active": true,
+      "key": "postaciHistorycznePolskie"
+    },
+    {
+      "name": "Juliusz Cezar",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "Aleksander Wielki",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "Napoleon Bonaparte",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "George Washington",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "Abraham Lincoln",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "Winston Churchill",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "Mahatma Gandhi",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "Nelson Mandela",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "Fidel Castro",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "Mao Zedong",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "Czyngis-Chan",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "Joanna d'Arc",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "Leonardo da Vinci",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "Michał Anioł",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "Galileusz",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "Isaac Newton",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "Benjamin Franklin",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "Marcin Luter",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "Johannes Gutenberg",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "Ludwig van Beethoven",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "Wolfgang Amadeusz Mozart",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "Karol Marks",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "Fryderyk Nietzsche",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "Sigmund Freud",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "Niels Bohr",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "Albert Einstein",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "Robert Oppenheimer",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "Otto von Bismarck",
+      "active": true,
+      "key": "postaciHistoryczneZagraniczne"
+    },
+    {
+      "name": "Andrzej Wajda",
+      "active": true,
+      "key": "rezyserzyPolscy"
+    },
+    {
+      "name": "Krzysztof Kieślowski",
+      "active": true,
+      "key": "rezyserzyPolscy"
+    },
+    {
+      "name": "Roman Polański",
+      "active": true,
+      "key": "rezyserzyPolscy"
+    },
+    {
+      "name": "Agnieszka Holland",
+      "active": true,
+      "key": "rezyserzyPolscy"
+    },
+    {
+      "name": "Jerzy Hoffman",
+      "active": true,
+      "key": "rezyserzyPolscy"
+    },
+    {
+      "name": "Wojciech Smarzowski",
+      "active": true,
+      "key": "rezyserzyPolscy"
+    },
+    {
+      "name": "Krzysztof Zanussi",
+      "active": true,
+      "key": "rezyserzyPolscy"
+    },
+    {
+      "name": "Jerzy Kawalerowicz",
+      "active": true,
+      "key": "rezyserzyPolscy"
+    },
+    {
+      "name": "Marek Koterski",
+      "active": true,
+      "key": "rezyserzyPolscy"
+    },
+    {
+      "name": "Jan Komasa",
+      "active": true,
+      "key": "rezyserzyPolscy"
+    },
+    {
+      "name": "Juliusz Machulski",
+      "active": true,
+      "key": "rezyserzyPolscy"
+    },
+    {
+      "name": "Andrzej Żuławski",
+      "active": true,
+      "key": "rezyserzyPolscy"
+    },
+    {
+      "name": "Andrzej Wajda",
+      "active": true,
+      "key": "rezyserzyPolscy"
+    },
+    {
+      "name": "Krzysztof Kieślowski",
+      "active": true,
+      "key": "rezyserzyPolscy"
+    },
+    {
+      "name": "Roman Polański",
+      "active": true,
+      "key": "rezyserzyPolscy"
+    },
+    {
+      "name": "Agnieszka Holland",
+      "active": true,
+      "key": "rezyserzyPolscy"
+    },
+    {
+      "name": "Jerzy Hoffman",
+      "active": true,
+      "key": "rezyserzyPolscy"
+    },
+    {
+      "name": "Wojciech Smarzowski",
+      "active": true,
+      "key": "rezyserzyPolscy"
+    },
+    {
+      "name": "Krzysztof Zanussi",
+      "active": true,
+      "key": "rezyserzyPolscy"
+    },
+    {
+      "name": "Jerzy Kawalerowicz",
+      "active": true,
+      "key": "rezyserzyPolscy"
+    },
+    {
+      "name": "Marek Koterski",
+      "active": true,
+      "key": "rezyserzyPolscy"
+    },
+    {
+      "name": "Jan Komasa",
+      "active": true,
+      "key": "rezyserzyPolscy"
+    },
+    {
+      "name": "Juliusz Machulski",
+      "active": true,
+      "key": "rezyserzyPolscy"
+    },
+    {
+      "name": "Andrzej Żuławski",
+      "active": true,
+      "key": "rezyserzyPolscy"
+    },
+    {
+      "name": "Steven Spielberg",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Martin Scorsese",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Alfred Hitchcock",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Stanley Kubrick",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Quentin Tarantino",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Christopher Nolan",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Francis Ford Coppola",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Ridley Scott",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "James Cameron",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "David Lynch",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Akira Kurosawa",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Ingmar Bergman",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Sofia Coppola",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Wes Anderson",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Coen Brothers (Joel & Ethan)",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Peter Jackson",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Guillermo del Toro",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Paul Thomas Anderson",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "George Lucas",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Jean-Luc Godard",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Roman Polański",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Denis Villeneuve",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Woody Allen",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Spike Lee",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "David Fincher",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Darren Aronofsky",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Bong Joon-ho",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Yorgos Lanthimos",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Lars von Trier",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Pedro Almodóvar",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Greta Gerwig",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "J.J. Abrams",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Tim Burton",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Hayao Miyazaki",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Terrence Malick",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Alejandro González Iñárritu",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Robert Zemeckis",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Milos Forman",
+      "active": true,
+      "key": "rezyserzyZagraniczni"
+    },
+    {
+      "name": "Adam Małysz",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Robert Lewandowski",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Agnieszka Radwańska",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Kamil Stoch",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Iga Świątek",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Mariusz Pudzianowski",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Jerzy Górski",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Piotr Żyła",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Marcin Gortat",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Krzysztof Piątek",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Natalia Partyka",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Paweł Fajdek",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Anita Włodarczyk",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Dariusz Michalczewski",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Łukasz Piszczek",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Katarzyna Skowrońska-Dolata",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Zbigniew Bródka",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Marcin Lewandowski",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Justyna Kowalczyk",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Grzegorz Krychowiak",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Tomasz Adamek",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Łukasz Kubot",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Andrzej Gołota",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Ewa Chodakowska",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Wojciech Szczęsny",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Robert Korzeniowski",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Radosław Majdan",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Rafał Majka",
+      "active": true,
+      "key": "sportowcyPolscy"
+    },
+    {
+      "name": "Lionel Messi",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "LeBron James",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Roger Federer",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Serena Williams",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Usain Bolt",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Michael Phelps",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Novak Djokovic",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Rafael Nadal",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Kobe Bryant",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Shaquille O'Neal",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Andre Agassi",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Tiger Woods",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Lewis Hamilton",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Andy Murray",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Kylian Mbappé",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Zlatan Ibrahimović",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Mike Tyson",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Maria Sharapova",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "David Beckham",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Carlos Sainz",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Paul Pogba",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Jürgen Klopp",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Sebastian Vettel",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Conor McGregor",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Neymar Jr.",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Fernando Alonso",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Gareth Bale",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Michael Jordan",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Kimi Räikkönen",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Sergio Ramos",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Venus Williams",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Manny Pacquiao",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Luka Dončić",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    },
+    {
+      "name": "Eliud Kipchoge",
+      "active": true,
+      "key": "sportowcyZagraniczni"
+    }
+  ]
+}
