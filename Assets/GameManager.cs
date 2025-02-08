@@ -36,11 +36,11 @@ public class GameManager : MonoBehaviour
     [SerializeField]
     private Text roundCounterText;
     [SerializeField]
-    private Text nextTeamText;
+    private TextMeshProUGUI nextTeamText;
     [SerializeField]
-    private Text personText;
+    private TextMeshProUGUI personText;
     [SerializeField]
-    private Text resultsText;
+    private TextMeshProUGUI resultsText;
     [SerializeField]
     public Text team1Text;
     [SerializeField]
@@ -99,8 +99,6 @@ public class GameManager : MonoBehaviour
     private string persistentFilePath;
 
     public Slider sliderRounds;
-    public Slider sliderTeam1;
-    public Slider sliderTeam2;
 
     void Start()
     {
@@ -177,12 +175,6 @@ public class GameManager : MonoBehaviour
 
         sliderRounds.value = hiddenCounter - roundCounter;
         sliderRounds.maxValue = hiddenCounter;
-
-        sliderTeam1.value = team1Score;
-        sliderTeam1.maxValue = hiddenCounter * roundsSlider;
-
-        sliderTeam2.value = team2Score;
-        sliderTeam2.maxValue = hiddenCounter * roundsSlider;
     }
     public void Create()
     {
@@ -347,14 +339,14 @@ public class GameManager : MonoBehaviour
                 nextRoundButtonObject.SetActive(true);
                 wrocButtonObject.SetActive(false);
                 roundsNumber += 1;
-                resultsText.text = "W rundzie " + roundsNumber + " drużyna " + PlayerPrefs.GetString("team2name") + " wyszła na prowadzenie o " + (team2Score - team1Score) + " punktów.";
+                resultsText.text = "W rundzie " + roundsNumber + " drużyna " + PlayerPrefs.GetString("team2name") + " doprowadza do remisu!";
             }
             else if ((team1Score == team2Score) && (team1RoundScore > team2RoundScore) && firstRound == false && rounds != 0)
             {
                 nextRoundButtonObject.SetActive(true);
                 wrocButtonObject.SetActive(false);
                 roundsNumber += 1;
-                resultsText.text = "W rundzie " + roundsNumber + " drużyna " + PlayerPrefs.GetString("team1name") + " wyszła na prowadzenie o " + (team1Score - team2Score) + " punktów.";
+                resultsText.text = "W rundzie " + roundsNumber + " drużyna " + PlayerPrefs.GetString("team1name") + " doprowadza do remisu!";
             }
 
         }
