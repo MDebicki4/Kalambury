@@ -1,6 +1,6 @@
 using UnityEngine;
 using System.IO;
-//siusiaczek
+
 [System.Serializable]
 public class PersonRoot
 {
