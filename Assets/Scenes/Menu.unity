@@ -8065,7 +8065,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4938095755617958528, guid: 2e79f16be10fbd14f8d5ef191f8db4aa, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -146.883
+      value: 170
       objectReference: {fileID: 0}
     - target: {fileID: 4938095755617958528, guid: 2e79f16be10fbd14f8d5ef191f8db4aa, type: 3}
       propertyPath: m_LocalPosition.z
@@ -8116,8 +8116,12 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4938095755617958530, guid: 2e79f16be10fbd14f8d5ef191f8db4aa, type: 3}
+      propertyPath: lengthInSec
+      value: 9.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 4938095755617958530, guid: 2e79f16be10fbd14f8d5ef191f8db4aa, type: 3}
       propertyPath: InitialModule.startLifetime.scalar
-      value: 0.21
+      value: 0.3
       objectReference: {fileID: 0}
     - target: {fileID: 4938095756042210498, guid: 2e79f16be10fbd14f8d5ef191f8db4aa, type: 3}
       propertyPath: m_Layer

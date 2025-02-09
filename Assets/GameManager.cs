@@ -105,10 +105,10 @@ public class GameManager : MonoBehaviour
 
         rounds = 1;
         roundsAfterRestart = 1;
-        timeAfterRestart = 13;
-        time = 13;
-        roundCounter = 5;
-        hiddenCounter = 5;
+        timeAfterRestart = 33;
+        time = 33;
+        roundCounter = 20;
+        hiddenCounter = 20;
 
         roundsSlider = 1;
         PlayerPrefs.SetString("team1name", "Drużyna 1");
